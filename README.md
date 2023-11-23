@@ -1,0 +1,1 @@
+# YOLOv7-vs.-Roboflow-3.0-Uma-An-lise-comparativa-dos-metodos-na-detec-o-de-buracos-vi-rios
